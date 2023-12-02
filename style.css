@@ -113,7 +113,7 @@ article #curiosidades{
 }
 
 @media screen and (max-width:532px){
-    ul{
+    .itens-cheio{
         display: none;
     }
     .click{
